@@ -12,6 +12,12 @@ const Footer = () => {
       <div>
         Toxr
       </div>
+      <div>
+        Sarik
+      </div>
+      <div>
+        Murod
+      </div>
     </div>
   )
 }
